@@ -11,7 +11,7 @@ function App() {
           <a
             href="https://natalialloyd.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Natalia Lloyd{" "}
           </a>{" "}
@@ -19,7 +19,7 @@ function App() {
           <a
             href="https://github.com/natallo7/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub.
           </a>
